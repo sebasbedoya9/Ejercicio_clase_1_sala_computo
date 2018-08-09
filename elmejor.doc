@@ -1,0 +1,4 @@
+El estándar C++11 (liberado el año 2011) incorpora muchísimas características al lenguaje que lo hacen mucho más interesante
+y sencillo para el desarrollo de aplicaciones genéricas, con un manejo más fácil de la memoria (a través de punteros inteligentes)
+y con una librería estándar más rica.
+
